@@ -1,0 +1,36 @@
+.blue-size {
+    color: #00FF;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    /*
+        text-decoration: underline; //линия снизу
+        text-decoration: overline; //линия сверху
+    */
+}
+
+
+/*.first {
+    color: red;
+}
+.second {
+    color: #008300;
+}
+.third {
+    color: rgb(220, 235, 86);
+}*/
+
+#one {
+    color: red;
+}
+#two {
+    color: #008300;
+}
+#three {
+    color: #dceb56;
+}
+
+.ul-li {
+    color: blue;
+}
